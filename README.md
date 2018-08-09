@@ -1,2 +1,2 @@
-# vue-britecharts
-Vue wrapper for the Britecharts charting library
+# vue-britecharts-donut
+Vue wrapper for the Britecharts Donut charting library
